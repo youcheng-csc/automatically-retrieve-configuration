@@ -1,6 +1,6 @@
 # Autosubmit Configuration Extractor
 
-A Python tool to automatically extract configuration parameters and component versions from Autosubmit experiment YAML configuration files.
+A Python tool to automatically extract configuration parameters and component versions from Autosubmit experiment YAML configuration files. This script is supposed to run under VM.
 
 ## 📋 Requirements
 
